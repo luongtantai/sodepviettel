@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/luongtantai/sodepviettel/static/css/main.f855e6bc.css",
+    "main.js": "/luongtantai/sodepviettel/static/js/main.2c7c1261.js",
+    "static/js/453.f7a479da.chunk.js": "/luongtantai/sodepviettel/static/js/453.f7a479da.chunk.js",
+    "static/media/logo.svg": "/luongtantai/sodepviettel/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/luongtantai/sodepviettel/index.html",
+    "main.f855e6bc.css.map": "/luongtantai/sodepviettel/static/css/main.f855e6bc.css.map",
+    "main.2c7c1261.js.map": "/luongtantai/sodepviettel/static/js/main.2c7c1261.js.map",
+    "453.f7a479da.chunk.js.map": "/luongtantai/sodepviettel/static/js/453.f7a479da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2c7c1261.js"
+  ]
+}
